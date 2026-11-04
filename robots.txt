@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://proforma.niveshsahayak.in/sitemap.xml
